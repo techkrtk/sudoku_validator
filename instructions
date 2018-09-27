@@ -1,0 +1,5 @@
+**The project runs only on nodejs environment, because i used fs module of nodejs.
+**The input format is specified in input.txt file
+**After entering the solution please make sure that you enter the next line and then save the file. After writing solution if entered is not pressed the code wont work.
+**Space after entering 3 numbers is also a must.
+**Type your solution only in input.txt file.
