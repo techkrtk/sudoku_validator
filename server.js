@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-let input = fs.readFileSync('app.txt', 'utf-8');
+let input = fs.readFileSync('input.txt', 'utf-8');
 
 let rows = input.split('\r\n');
 rows.pop();
